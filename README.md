@@ -5,7 +5,7 @@ Template repository for #AndroidExerciseStageOne
 ## Getting Started
 
 You can copy this repository by clicking on the "Use this template" button on this Github page. 
-Clone your repository and then you can work on latest [Android Studio (Canary build)](https://developer.android.com/studio/preview.
+Clone your repository and then you can work on latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
 
 ## Guidelines
 
