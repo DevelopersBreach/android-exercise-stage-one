@@ -1,8 +1,11 @@
 # android-exercise-stage-one
 
-DESCRIPTION
+Template repository for #AndroidExerciseStageOne
 
 ## Getting Started
+
+You can copy this repository by clicking on the "Use this template" button on this Github page. 
+Clone your repository and then you can work on latest [Android Studio (Canary build)](https://developer.android.com/studio/preview.
 
 ## Guidelines
 
@@ -13,8 +16,6 @@ You can refer to preview images in drawable folder -> res/drawable/.
 Only make use of ConstraintLayout. Find layout horizontal_line.xml to copy the view line into your layouts.
 
 Once you complete building the two layouts commit those changes to the repository.
-
- Constarint Layout
 
 ## Code Formatting
 
