@@ -27,7 +27,7 @@ Once you complete building the two layouts commit those changes to the repositor
 
 ![alt text](https://github.com/RajashekarRaju/student-layout-challenge/blob/master/app/src/main/res/drawable/app_rules.png)
 
-<img src="https://github.com/RajashekarRaju/student-layout-challenge/blob/master/app/src/main/res/drawable/music_app_dark.png" width="380"> <img src="https://github.com/RajashekarRaju/student-layout-challenge/blob/master/app/src/main/res/drawable/music_app_light.png" width="380">
+<img src="https://github.com/RajashekarRaju/student-layout-challenge/blob/master/app/src/main/res/drawable/music_app_dark.png" width="300"> <img src="https://github.com/RajashekarRaju/student-layout-challenge/blob/master/app/src/main/res/drawable/music_app_light.png" width="300">
 
 
 ## License
